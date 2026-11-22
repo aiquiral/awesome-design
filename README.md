@@ -76,6 +76,7 @@
 
 * [Photopea](https://www.photopea.com/) Online Photo editor, similar to Photoshop.
 * [Krita](https://krita.org/) Professional free and opensource painting program.
+* [hue.tf](https://hue.tf) FOSS browser-based color palette extractor for images, without upload, with PNG, SVG, CSS, Tailwind, JSON and Adobe ASE export.
 
 ## Fonts
 
